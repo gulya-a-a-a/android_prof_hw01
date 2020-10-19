@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="search_title">Enter a phrase</string>
+    <string name="error_message_hint">Error message</string>
+    <string name="translation_hint">Translation</string>
+    <string name="meaning_hint">Meaning</string>
+</resources>
